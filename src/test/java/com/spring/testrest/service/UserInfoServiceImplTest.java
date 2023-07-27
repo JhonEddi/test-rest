@@ -16,7 +16,7 @@ class UserInfoServiceImplTest {
     @BeforeEach
     void setUp() {
         userInfo = new UserInfo("Jhon", "Eddi", "Malagon", "Gonzalez",
-                Document.C, 2344532L, 123456L, "Calle siempre viva", "Zipaquira");
+                Document.C, 23445322L, 123456L, "Calle siempre viva", "Zipaquira");
     }
 
     @Test
